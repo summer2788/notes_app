@@ -1,5 +1,6 @@
 # notes_app
 This is a note app demo that is build on android studio
+creater: Jongeun Park
 
 # Android Studio Note App Memoori
 
